@@ -1,8 +1,4 @@
-## Welcome to Alessandro is Learning
-
-Here's a list of the courses I've taken so far:
-
-### Testing React Applications, v2
+### COURSE: Testing React Applications, v2
 
 by Kent C. Dodds
 
@@ -10,7 +6,7 @@ by Kent C. Dodds
 
 Issued by [FrontEnd Masters](https://frontendmasters.com)
 
-### Digging Into Node.js
+### COURSE: Digging Into Node.js
 
 by Kyle Simpson
 
@@ -18,10 +14,26 @@ by Kyle Simpson
 
 Issued by [FrontEnd Masters](https://frontendmasters.com)
 
-### JavaScript Testing Practices and Principles
+### COURSE: JavaScript Testing Practices and Principles
 
 by Kent C. Dodds
 
 [Link to the course](https://frontendmasters.com/courses/testing-practices-principles) 
 
 Issued by [FrontEnd Masters](https://frontendmasters.com)
+
+### PROJECT: Ortobon - Shopify eCommerce
+
+[Link to the site](http://www.orto-bon.it) 
+
+### BOOK: You Don't Know JS
+
+by Kyle Simpson
+
+[Link to the book](https://github.com/getify/You-Dont-Know-JS) 
+
+### BOOK: Functional-Light JavaScript
+
+by Kyle Simpson
+
+[Link to the book](https://github.com/getify/Functional-Light-JS) 

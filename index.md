@@ -1,3 +1,7 @@
+### PROJECT: Coding a simple Automation Server
+
+[Link to the project's code](https://github.com/mendaomn/my-own-automation-server)
+
 ### COURSE: Testing React Applications, v2
 
 by Kent C. Dodds

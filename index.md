@@ -13,7 +13,7 @@ In this project I'll be building:
  - an Automation Server, exposing RESTful endpoints to create and run pipelines
  - a Command Line Interface, acting as client, to make it easy to actually use the CI in a real project
 
-**Link to the project's code**: [my-own-automation-server](https://github.com/mendaomn/my-own-automation-server)
+**Link to the code**: [my-own-automation-server](https://github.com/mendaomn/my-own-automation-server)
 
 ## Testing React Applications, v2
 
@@ -55,7 +55,9 @@ In this course, I've learned about Streams, handling stdin, stdout and stderr, c
 
 **Type**: PROJECT
 
-[Link to the site](http://www.orto-bon.it) 
+**Link to the code**: [github](https://github.com/mendaomn/Ortobon)
+
+**Link to the site**: [orto-bon.it](http://www.orto-bon.it)
 
 ## You Don't Know JS
 

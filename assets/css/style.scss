@@ -1,0 +1,89 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+* {
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  color: #24292E;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+a {
+  color: #0366d6;
+
+  &:hover {
+    font-weight: initial;
+    color: #0366d6;
+    text-decoration: underline;
+  }
+}
+
+h1,h2,h3,h4,h5,h6 {
+  margin-top: 24px;
+  margin-bottom: 16px;
+  font-weight: 600;
+  line-height: 1.25
+}
+
+h1 {
+  padding-bottom: 0.3em;
+  font-size: 2em;
+  font-weight: 600
+}
+
+h2 {
+  margin-top: 48px;
+  font-size: 24px;
+  font-weight: 600
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: 600
+}
+
+h4 {
+  font-size: 16px;
+  font-weight: 600
+}
+
+h5 {
+  font-size: 14px;
+  font-weight: 600
+}
+
+h6 {
+  font-size: 12px;
+  font-weight: 600
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 10px
+}
+
+header {
+  p {
+    margin-bottom: 0;
+  }
+  padding-bottom: 24px;
+}
+
+header, section, footer {
+  position: initial;
+  float: none;
+  width: initial;
+  max-width: 700px;
+}
+
+section {
+  padding-top: 25px;
+  border: 1px solid #e5e5e5;
+  border-width: 1px 0;
+}
+
+footer {
+  padding-top: 25px;
+}

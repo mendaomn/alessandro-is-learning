@@ -1,4 +1,4 @@
-### PROJECT: Coding a simple Automation Server
+## PROJECT: Coding a simple Automation Server
 
 In the quest of understanding a bit better the world of Continuous Integration, I started wondering how would a simple CI work. 
 
@@ -11,7 +11,7 @@ In this project I'll be building:
 
 [Link to the project's code](https://github.com/mendaomn/my-own-automation-server)
 
-### COURSE: Testing React Applications, v2
+## COURSE: Testing React Applications, v2
 
 by Kent C. Dodds
 
@@ -19,7 +19,7 @@ by Kent C. Dodds
 
 Issued by [FrontEnd Masters](https://frontendmasters.com)
 
-### COURSE: Digging Into Node.js
+## COURSE: Digging Into Node.js
 
 by Kyle Simpson
 
@@ -31,7 +31,7 @@ In this course, I've learned about Streams, handling stdin, stdout and stderr, c
 
 Issued by [FrontEnd Masters](https://frontendmasters.com)
 
-### COURSE: JavaScript Testing Practices and Principles
+## COURSE: JavaScript Testing Practices and Principles
 
 by Kent C. Dodds
 
@@ -39,17 +39,17 @@ by Kent C. Dodds
 
 Issued by [FrontEnd Masters](https://frontendmasters.com)
 
-### PROJECT: Ortobon - Shopify eCommerce
+## PROJECT: Ortobon - Shopify eCommerce
 
 [Link to the site](http://www.orto-bon.it) 
 
-### BOOK: You Don't Know JS
+## BOOK: You Don't Know JS
 
 by Kyle Simpson
 
 [Link to the book](https://github.com/getify/You-Dont-Know-JS) 
 
-### BOOK: Functional-Light JavaScript
+## BOOK: Functional-Light JavaScript
 
 by Kyle Simpson
 

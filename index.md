@@ -40,7 +40,7 @@ In this project I'll be building:
  - an Automation Server, exposing RESTful endpoints to create and run pipelines
  - a Command Line Interface, acting as client, to make it easy to actually use the CI in a real project
 
-**Link to the code**: [my-own-automation-server](https://github.com/mendaomn/my-own-automation-server)
+**Link to the code**: [yaci](https://github.com/mendaomn/yaci)
 
 ## Testing React Applications, v2
 

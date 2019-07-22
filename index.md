@@ -1,3 +1,30 @@
+## Coding the simplest PubSub in the world
+
+**Type**: PROJECT
+
+**Description**:
+
+The PubSub is one of the first software patterns I implemented myself in JavaScript, and to this day I think it's so simple yet so important when it comes to keeping different parts of a Web Application in sync.
+
+So here it's my take at it, heavily inspired by [mitt](https://github.com/developit/mitt)
+
+**Link to the code**: [yaps](https://github.com/mendaomn/yaps)
+
+## Coding the simplest State Manager in the world
+
+**Type**: PROJECT
+
+**Description**:
+
+State Management is surely one of the most delicate aspects of building sizable Web Applications. 
+
+Yet I think most of the state managers out there tend to overdo it, so I tried my hand at it with two goals in mind:
+
+- it should only do what's absolutely needed
+- it should be as small as possible
+
+**Link to the code**: [yasm](https://github.com/mendaomn/yasm)
+
 ## Coding a simple Automation Server
 
 **Type**: PROJECT

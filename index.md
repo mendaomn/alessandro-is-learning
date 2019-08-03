@@ -35,7 +35,7 @@ This project includes:
 - `expect.toBe` and `expect.toEqual` assertions
 - `spy` function to create a mocks and be able to assert on them
 
-This has also been a great way to put some of the learnings from the [Creating an Open Source Javascript Library on Github](https://frontendmasters.com/courses/open-source/) course into practice. 
+This has also been a great way to put some of the learnings from the [Creating an Open Source Javascript Library on Github](#creating-an-open-source-javascript-library-on-github) course into practice. 
 
 Thus it's got git hooks, a linting and static type checking, coverage reports and it integrates with the Travis CI.
 

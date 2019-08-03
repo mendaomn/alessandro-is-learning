@@ -1,3 +1,58 @@
+## Advanced React Patterns
+
+**Type**: COURSE 
+
+**Description**:
+
+Developing in React requires you to start thinking in terms of Components, and with that come new patterns that have been emerging, that help developers solve common problems.
+
+In this course, I've learned a ton about how to think critically about the component I'm creating and its "surface" (or I allow users of that component to use it). Most importantly, I've learned quite a few handy patterns:
+
+- Compound Components
+- Render Prop Pattern
+- Prop Collections Pattern, 
+- Prop Getters Pattern, 
+- State Initializer Pattern, 
+- State Reducer Pattern
+- Control Props (my absolute fav ✨✨)
+- Provider Pattern
+- Higher Order Components
+- Rendux
+
+**Link to the course**: [Advanced React Patterns](https://frontendmasters.com/courses/advanced-react-patterns/) 
+
+**Teacher**: [Kent C. Dodds](https://kentcdodds.com/)
+
+**Issued by**: [FrontEnd Masters](https://frontendmasters.com)
+
+## Coding the simplest Test Framework (and assertions) in the world
+
+Inspired by [Kent C. Dodds testing-workshop](https://github.com/kentcdodds/testing-workshop), I've decided to code my own little test framework, mimicking the Jest API, in order to better understand how things work under the hood.
+
+This project includes:
+
+- `test` function
+- `expect.toBe` and `expect.toEqual` assertions
+- `spy` function to create a mocks and be able to assert on them
+
+This has also been a great way to put some of the learnings from the [Creating an Open Source Javascript Library on Github](https://frontendmasters.com/courses/open-source/) course into practice. 
+
+Thus it's got git hooks, a linting and static type checking, coverage reports and it integrates with the Travis CI.
+
+## Creating an Open Source JavaScript Library on Github
+
+**Type**: COURSE 
+
+**Description**:
+
+Simply put, a goldmine of tips and instructions on how to properly setup and maintain an Open Source project. From choosing the LICENSE, to configure Travis CI to go through all the tests on new Pull Requests; from semantic-releases to creating a "universal" library that can be used on the browser, and with module loaders other than Webpack.
+
+**Link to the course**: [Creating an Open Source JavaScript Library on Github](https://frontendmasters.com/courses/open-source/) 
+
+**Teacher**: [Kent C. Dodds](https://kentcdodds.com/)
+
+**Issued by**: [FrontEnd Masters](https://frontendmasters.com)
+
 ## Coding the simplest PubSub in the world
 
 **Type**: PROJECT
@@ -89,6 +144,14 @@ In this course, I've learned about Streams, handling stdin, stdout and stderr, c
 ## You Don't Know JS
 
 **Type**: BOOK
+
+**Description**:
+
+I consider YDKJS the best book on the JavaScript.
+
+I taught me most of what I know about the language and its uses; most importantly, it taught more than just notions: I learned about digging deeper and how to think critically about the language I'm using.
+
+My approach towars programming in general changed after I've read this series of books, and I keep coming back to it when there's something I'm not sure about.
 
 **Author**: [Kyle Simpson](https://github.com/getify)
 

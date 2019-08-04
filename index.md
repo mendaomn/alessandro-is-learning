@@ -39,6 +39,8 @@ This has also been a great way to put some of the learnings from the [Creating a
 
 Thus it's got git hooks, a linting and static type checking, coverage reports and it integrates with the Travis CI.
 
+**Link to the code**: [yate](https://github.com/mendaomn/yate)
+
 ## Creating an Open Source JavaScript Library on Github
 
 **Type**: COURSE 
